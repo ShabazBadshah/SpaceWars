@@ -1,8 +1,6 @@
 /* Title: Space Wars
  * By: Shabaz Badshah
- * Date Started: Tuesday May 13, 2014
- * Date Completed Main: Wednesday May 28, 2014
- * Date Complete Final: Monday June 16, 2014
+ * Date Started: Tuesday June 13, 2016
  * Classes were used after following the classes tutorial in the OUT drive and tutorial (in resource section)
  */
 
